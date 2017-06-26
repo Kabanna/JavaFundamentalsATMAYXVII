@@ -2,9 +2,6 @@ package ua.org.oa.lecture5.arrays;
 
 import java.util.Arrays;
 
-/**
- * Created by dmitr on 22.06.2017.
- */
 public class App {
     public static void main(String[] args) {
         int[] intArray = new int[5];
