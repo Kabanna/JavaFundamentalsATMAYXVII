@@ -1,4 +1,4 @@
-package ua.org.oa;
+package ua.org.oa.lecture1;
 
 public class Hello {
     public static void main(String[] args) {
