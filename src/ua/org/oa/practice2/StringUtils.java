@@ -1,8 +1,5 @@
 package ua.org.oa.practice2;
 
-/**
- * Created by dmitr on 29.06.2017.
- */
 public class StringUtils {
 
     public static final int BEGIN_INDEX = 1;
