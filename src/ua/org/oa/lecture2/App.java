@@ -31,7 +31,7 @@ public class App {
         System.out.println(myChar1);
         System.out.println(myChar2);
 
-        i = 'ї' + 1;
+      //  i = 'ї' + 1;
         System.out.println(i);
 
         double d = 0;
