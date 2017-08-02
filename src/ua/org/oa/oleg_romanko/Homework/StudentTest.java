@@ -1,4 +1,4 @@
-package ua.org.oa.Homework;
+package ua.org.oa.oleg_romanko.Homework;
 
 
 public class StudentTest {
