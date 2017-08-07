@@ -15,7 +15,7 @@
  *
  */
 
-package ua.org.oa.anna.shevelieva.home_work_ATMAYXVII_3;
+package ua.org.oa.anna_shevelieva.home_work_ATMAYXVII_3;
 
 public class Patient {
     private String patientName;
